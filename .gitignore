@@ -1,0 +1,4 @@
+.vercel
+/node_modules
+service_account2.json
+app1.js
